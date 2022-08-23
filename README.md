@@ -1,16 +1,39 @@
-### Hi there 👋
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<!--
-**sr-shaheen/sr-shaheen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello 🙏, I'm Saidur Rahman Shaheen 
+## Full Stack Developer 👨‍💻
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+[![](https://img.shields.io/badge/LinkedIn-shaheenewu-blue)](https://www.linkedin.com/in/shaheenewu/)
+[![](https://img.shields.io/badge/Gmail-shaheenfgs%40gmail.com-red)](mailto:shaheenfgs@gmail.com)
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const ashraf = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["app dev", "web dev", "tech"],
+    technologies:{
+        backEnd: ["nodeJS", "nestJS", "express", "python"],
+        fronEnd: ["angular","vue","NuxtJs", "reactJs"],
+        mobileApp: ["ionic","angular"],
+        database: ["mongoDB","mySql"],
+        serverless: ["mongo-realm","azure-function"],
+        devOps: ["Azure", "Nginx", "Jenkins"],
+        misc: ["Firebase", "Socket.IO"]
+    },
+    architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
+}
+```
+
+---
+⭐️ From [@shaheenewu](https://github.com/shaheenewu)
+
+
+----
+Credit: [shaheenewu](https://github.com/shaheenewu)
+
+Last Edited on: 23/08/2022
