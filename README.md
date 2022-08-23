@@ -30,10 +30,10 @@ const ashraf = {
 ```
 
 ---
-⭐️ From [@shaheenewu](https://github.com/shaheenewu)
+⭐️ From [@sr-shaheen](https://github.com/sr-shaheen)
 
 
 ----
-Credit: [shaheenewu](https://github.com/shaheenewu)
+Credit: [sr-shaheen](https://github.com/sr-shaheen)
 
 Last Edited on: 23/08/2022
