@@ -18,7 +18,7 @@ const shaheen = {
     askMeAbout: ["App Dev", "Web Dev", "Tech"],
     technologies:{
         backEnd: ["NodeJS", "NestJS", "ExpressJS", "Python"],
-        fronEnd: ["Angular", "Vue", "NuxtJS", "ReactJS", "NextJS"],
+        frontEnd: ["Angular", "Vue", "NuxtJS", "ReactJS", "NextJS"],
         mobileApp: ["Ionic", "Angular"],
         database: ["MongoDB", "MySql"],
         serverless: ["mongo-realm","azure-function"],
