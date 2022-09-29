@@ -15,17 +15,17 @@
 ```javascript
 const shaheen = {
     pronouns: "He" | "Him",
-    askMeAbout: ["app dev", "web dev", "tech"],
+    askMeAbout: ["App Dev", "Web Dev", "Tech"],
     technologies:{
-        backEnd: ["nodeJS", "nestJS", "express", "python"],
-        fronEnd: ["angular","vue","NuxtJs", "reactJs"],
-        mobileApp: ["ionic","angular"],
-        database: ["mongoDB","mySql"],
+        backEnd: ["NodeJS", "NestJS", "ExpressJS", "Python"],
+        fronEnd: ["Angular", "Vue", "NuxtJS", "ReactJS", "NextJS"],
+        mobileApp: ["Ionic", "Angular"],
+        database: ["MongoDB", "MySql"],
         serverless: ["mongo-realm","azure-function"],
         devOps: ["Azure", "Nginx", "Jenkins"],
         misc: ["Firebase", "Socket.IO"]
     },
-    architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
+    architecture: ["Serverless Architecture", "Microservices", "event-driven", "Single page applications"],
 }
 ```
 
