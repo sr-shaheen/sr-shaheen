@@ -19,13 +19,13 @@ const shaheen = {
     technologies:{
         backEnd: ["NodeJS", "NestJS", "ExpressJS", "Python"],
         frontEnd: ["Angular", "Vue", "NuxtJS", "ReactJS", "NextJS"],
-        mobileApp: ["Ionic", "Angular"],
+        mobileApp: ["Ionic"],
         database: ["MongoDB", "MySql"],
         serverless: ["mongo-realm","azure-function"],
         devOps: ["Azure", "Nginx", "Jenkins"],
         misc: ["Firebase", "Socket.IO"]
     },
-    architecture: ["Serverless Architecture", "Microservices", "event-driven", "Single page applications"],
+    architecture: ["Serverless Architecture", "Microservices", "event-driven", "Single page applications"]
 }
 ```
 
